@@ -61,4 +61,6 @@ This will compile the code and generate the executable.
 
 You should see a graphical output on your connected display, similar to the frame shown in the image below.
 
-![image](https://github.com/soheil1156/EmbeddedLinux-RaspberryPi-Low-Level-Graphics-Programming/assets/24310606/7b92dc8c-abef-40ac-9fbc-d426945aab95)
+<p align="center">
+    <img src="https://github.com/soheil1156/EmbeddedLinux-RaspberryPi-Low-Level-Graphics-Programming/assets/24310606/7b92dc8c-abef-40ac-9fbc-d426945aab95" width="500">
+</p>
