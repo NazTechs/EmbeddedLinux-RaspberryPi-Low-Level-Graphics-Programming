@@ -17,4 +17,42 @@ To get started with Raspberry Pi Framebuffer Graphics, follow these steps:
 
 3. Check if the framebuffer device (`/dev/fb0`) is available on your system by running the following command:
 ```shell 
-ls /dev/fb0 
+ls /dev/fb0
+
+You should see /dev/fb0 listed if the framebuffer device is present.
+
+![image](https://github.com/soheil1156/EmbeddedLinux-RaspberryPi-Low-Level-Graphics-Programming/assets/24310606/23d37d1b-2477-4416-89b4-22b7cf4eac8b)
+
+4. Install the necessary build tools on your Linux distribution. This can typically be done by running the following command:
+
+```shell 
+sudo apt-get install build-essential
+
+This will install the required tools for compiling and building software on your system.
+
+5. Clone this repository to your Raspberry Pi by running the following command:
+
+```shell 
+git clone https://github.com/Soheil1156/EmbeddedLinux-RaspberryPi-Low-Level-Graphics-Programming.git
+
+This will create a local copy of the repository on your Raspberry Pi.
+
+6. Navigate to the repository directory:
+
+```shell 
+cd EmbeddedLinux-RaspberryPi-Low-Level-Graphics-Programming
+
+7. Build the software using the provided Makefile:
+
+```shell 
+make
+
+This will compile the code and generate the executable.
+
+8. Run the software:
+```shell 
+./graphic
+
+You should see a graphical output on your connected display, similar to the frame shown in the image below.
+
+![image](https://github.com/soheil1156/EmbeddedLinux-RaspberryPi-Low-Level-Graphics-Programming/assets/24310606/7b92dc8c-abef-40ac-9fbc-d426945aab95)
