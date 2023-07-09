@@ -17,7 +17,7 @@ To get started with Raspberry Pi Framebuffer Graphics, follow these steps:
 
 3. Check if the framebuffer device (`/dev/fb0`) is available on your system by running the following command:
 ```shell 
-ls /dev/fb0
+ls /dev/fb0 ```
 
 You should see /dev/fb0 listed if the framebuffer device is present.
 
