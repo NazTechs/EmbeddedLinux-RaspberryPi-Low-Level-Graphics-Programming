@@ -1,5 +1,5 @@
 # EmbeddedLinux and Raspberry Pi Framebuffer Graphics Tutorials and Example
-Welcome to the Raspberry Pi Framebuffer Graphics repository! This repository provides a collection of tutorials, examples, and code snippets to help you get started with low graphics development using the framebuffer on Raspberry Pi or other embedded Linux system.
+Welcome to the Raspberry Pi Framebuffer Graphics repository! This repository provides a simple tutorial, example, and code snippets to help you get started with low graphics development using the framebuffer on Raspberry Pi or other embedded Linux system.
 
 ## Features
 
