@@ -16,5 +16,5 @@ To get started with Raspberry Pi Framebuffer Graphics, follow these steps:
 2. If you are using a graphical desktop environment, switch to the console view by pressing `Alt + Ctrl + F2`. This will bring you to a virtual terminal without the graphical desktop environment.
 
 3. Check if the framebuffer device (`/dev/fb0`) is available on your system by running the following command:
-```shell
-ls /dev/fb0```
+```shell 
+ls /dev/fb0 
