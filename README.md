@@ -64,3 +64,24 @@ You should see a graphical output on your connected display, similar to the fram
 <p align="center">
     <img src="https://github.com/soheil1156/EmbeddedLinux-RaspberryPi-Low-Level-Graphics-Programming/assets/24310606/7b92dc8c-abef-40ac-9fbc-d426945aab95" width="500">
 </p>
+
+## Contributing
+
+Contributions to this repository are welcome! If you have any improvements, bug fixes, or additional examples, feel free to submit a pull request. Please ensure that your contributions align with the goal of the repository.
+
+If you find any issues or have suggestions for new topics or improvements, please open an issue on the GitHub repository.
+
+## License
+
+This repository is licensed under the MIT License, allowing you to freely use the code for personal or commercial projects.
+
+## Acknowledgements
+
+We would like to express our gratitude to the open-source community for their contributions and support.
+
+## Resources
+
+- [Official Raspberry Pi Website](https://www.raspberrypi.org/)
+- [Framebuffer Documentation](https://www.kernel.org/doc/html/v4.10/gpu/fbdev/index.html)
+
+Enjoy exploring the world of Raspberry Pi framebuffer graphics!
